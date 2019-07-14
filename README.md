@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-This Repo Will Contain All Of My Machine Learning Projects I'll Be Working On..
+This Repo contains all the datasets and my solution scripts in Jupyter Notebook..
